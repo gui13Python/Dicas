@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seu-dominio.vercel.app/sitemap.xml
+Sitemap: https://dicas-economizar-tempo.vercel.app/sitemap.xml
