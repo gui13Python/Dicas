@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://seu-dominio.vercel.app/</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/artigos/economia-domestica.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/artigos/economia-domestica.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/artigos/organizacao-casa.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/artigos/organizacao-casa.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/artigos/produtividade-diaria.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/artigos/produtividade-diaria.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/artigos/tecnologia-basica.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/artigos/tecnologia-basica.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/sobre.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/sobre.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/contato.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/contato.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/privacidade.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/privacidade.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>https://seu-dominio.vercel.app/termos.html</loc>
+    <loc>https://dicas-economizar-tempo.vercel.app/termos.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
